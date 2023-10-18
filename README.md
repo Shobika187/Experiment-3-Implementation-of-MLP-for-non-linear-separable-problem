@@ -47,7 +47,6 @@ import matplotlib.pyplot as plt
 x=np.array([[0,0,1,1],[0,1,0,1]])
 y=np.array([[0,1,1,0]])
 
-#No. of neurons in each layer
 n_x = 2 #Input-Layer
 n_y = 1 #Output-Layer
 n_h = 2 #Hidden-Layer
